@@ -7,3 +7,6 @@
 >~~**git add**~~ - добавить файл или файлы к следующему коммиту
 
 >*git log* - *жунал изменений файла*
+
+![](https://avatars.mds.yandex.net/i?id=1ba5970a73ab5b8b61d8b762d6b83b31-5221753-images-thumbs&n=13)
+
