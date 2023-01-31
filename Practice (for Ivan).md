@@ -28,3 +28,10 @@
 
 > git branch -d <branch_name> - удалить ветку с именем branch_name
 
+dsfsdfsdf
+sdfsdfsd
+fdsfsdfsd
+dsfsdfsdf
+sdfsdfsdf
+sdfsdfsdf
+sdfsdfsdf
