@@ -26,8 +26,10 @@
 
 > **git branch** **<branch_name>** - создать новую ветку с именем Branch_name
 
-> **git branch** -d <branch_name> - удалить ветку с именем branch_name
+> **git branch -d <branch_name>** - удалить ветку с именем branch_name
 
->**git checkout** -b <branch_name> - создание ветки и переход к ней
+>**git checkout -b <branch_name>** - создание ветки и переход к ней
 
->**git merge** --abort - отменить слияние, которое прошло с конфликтом
+>**git merge --abort** - отменить слияние, которое прошло с конфликтом
+
+>**git commit -am "message"** - добавление файлов в отслеживание и одновременно с этим создание коммита
