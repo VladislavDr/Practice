@@ -29,3 +29,9 @@
 > git branch -d <branch_name> - удалить ветку с именем branch_name
 
 >**git checkout -b <branch_name> - создание ветки и переход к ней
+
+
+
+
+
+>git log --graph - вывод на экран всех коммитов с их хеш-кодами в древовидной форме
